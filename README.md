@@ -1,8 +1,3 @@
-PCI DSS Secure Payment Processing Platform
-
-
-Secure AWS payment processing platform designed around PCI DSS security principles to protect transaction workloads and reduce exposure of sensitive payment data.
-
 # PCI Secure Payment Processing Platform on AWS
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
