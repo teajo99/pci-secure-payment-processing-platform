@@ -1,0 +1,20 @@
+Internet
+    │
+    ▼
+Application Load Balancer
+    │
+    ▼
+EC2 Application Server (Private Subnet)
+    │
+    ▼
+RDS PostgreSQL (Private Subnet)
+
+Supporting Services:
+• IAM
+• KMS
+• Secrets Manager
+• S3
+• CloudTrail
+• AWS Config
+• CloudWatch
+• AWS Backup
