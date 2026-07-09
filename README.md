@@ -1,4 +1,4 @@
-# PCI Secure Payment Processing Platform on AWS
+# PCI Secure Payment Processing Platform on AWS Using Terraform
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple)
