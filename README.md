@@ -1,9 +1,13 @@
 # PCI Secure Payment Processing Platform on AWS Using Terraform
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple)
-![Security](https://img.shields.io/badge/Security-PCI--DSS%20Aligned-blue)
-![Architecture](https://img.shields.io/badge/Architecture-Cloud%20Native-green)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-Security%20Aligned-0052CC)
+![ECS](https://img.shields.io/badge/Compute-ECS%20Fargate-FF9900?logo=amazonecs&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Zero%20Trust-blue)
+![Encryption](https://img.shields.io/badge/Encryption-AWS%20KMS-success)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-GuardDuty-red)
+![Monitoring](https://img.shields.io/badge/Monitoring-Security%20Hub-purple)
 
 ## Project Overview
 
