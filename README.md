@@ -1,6 +1,4 @@
 # PCI Secure Payment Processing Platform on AWS Using Terraform
-## ARCHITECTURE DIAGRAM 
-![image alt](https://github.com/teajo99/pci-secure-payment-processing-platform/blob/4484d239870502d37bc7724f92b59c71fcd95f2e/IMG_5769.gif)
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
@@ -52,45 +50,7 @@ The solution implements a secure AWS architecture that supports PCI DSS security
 
 # Architecture
 
-                     Internet
-
-                        |
-
-                     AWS WAF
-
-                        |
-
-          Application Load Balancer
-
-                        |
-
-                ECS Fargate Service
-
-                        |
-
-             Private Application Network
-
-                        |
-
-              Amazon RDS PostgreSQL
-
-                        |
-
-              Encrypted Database Storage
-
-Security Monitoring Layer:
-
-CloudTrail
-CloudWatch
-GuardDuty
-Security Hub
-AWS Config
-Inspector
-Macie
-SNS Alerts
-
-
----
+![image alt](https://github.com/teajo99/pci-secure-payment-processing-platform/blob/4484d239870502d37bc7724f92b59c71fcd95f2e/IMG_5769.gif)
 
 # AWS Services Implemented
 
