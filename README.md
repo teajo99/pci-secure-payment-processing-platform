@@ -1,4 +1,6 @@
 # PCI Secure Payment Processing Platform on AWS Using Terraform
+## ARCHITECTURE DIAGRAM 
+![image alt](https://github.com/teajo99/pci-secure-payment-processing-platform/blob/4484d239870502d37bc7724f92b59c71fcd95f2e/IMG_5769.gif)
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
